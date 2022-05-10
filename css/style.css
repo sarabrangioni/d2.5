@@ -5,12 +5,14 @@ body {
   background-color: #2e2d4c;
   background-image: url(../img/background-foods-v4.png);
   background-attachment: fixed;
+  padding: 2px;
 }
 
 .conteudo {
   line-height: 3rem;
   width: 72%;
   margin: auto;
+  margin-bottom: 220px;
   background-color: white;
   padding: 50px;
   border-radius: 10px;
@@ -98,6 +100,13 @@ body {
   right: 20px;
   opacity: 0.3;
 }
-.btn-inicio: hover {
+.btn-inicio:hover {
   opacity: 1;
+}
+.footer {
+  position: relative;
+  padding: 120px;
+  background-color: #1b1a2f;
+  color: #fff;
+  text-align: center;
 }
