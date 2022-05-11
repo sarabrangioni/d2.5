@@ -7,10 +7,13 @@ body {
   background-attachment: fixed;
   padding: 2px;
 }
+.logo {
+  margin-top: 74px;
+}
 
 .conteudo {
   line-height: 3rem;
-  width: 72%;
+  width: 56%;
   margin: auto;
   margin-bottom: 220px;
   background-color: white;
